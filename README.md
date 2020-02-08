@@ -1,11 +1,13 @@
 ## mamezou-techへようこそ
 
-当サイトは豆蔵が運営する技術ポータルです。
+当サイトは豆蔵有志が運営する技術ポータルです。
 技術ノウハウの公開や豆蔵社員が開発するOSSの紹介をします。
 
 ## 技術ノウハウ
 
-### [Kubernetesハンズオン](https://github.com/mamezou-tech/k8s-hands-on)
+### コンテナ
+
+#### [Kubernetesハンズオン](https://github.com/mamezou-tech/k8s-hands-on)
 情報整理中。
 
 ## OSS
