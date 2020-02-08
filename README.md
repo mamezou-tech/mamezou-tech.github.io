@@ -7,6 +7,10 @@
 
 ## 技術ノウハウ
 
+### ブログ
+
+- <https://blog.kondoumh.com/>
+
 ### コンテナ
 
 #### [Kubernetesハンズオン](https://github.com/mamezou-tech/k8s-hands-on)
@@ -23,7 +27,7 @@
 
 [Github Actions](https://github.com/features/actions)の[helmfile](https://github.com/roboll/helmfile)対応Action。
 
-参考： <https://blog.kondoumh.com/entry/2020/02/07/213828>
+関連記事： <https://blog.kondoumh.com/entry/2020/02/07/213828>
 
 #### [concourse-k8s-resource](https://github.com/mamezou-tech/concourse-k8s-resource)
 
