@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## mamezou-techへようこそ
 
-You can use the [editor on GitHub](https://github.com/mamezou-tech/mamezou-tech.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+当サイトは豆蔵が運営する技術ポータルです。
+技術ノウハウの公開や豆蔵社員が開発するOSSの紹介をします。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 技術ノウハウ
 
-### Markdown
+### [Kubernetesハンズオン](https://github.com/mamezou-tech/k8s-hands-on)
+情報整理中。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## OSS
 
-```markdown
-Syntax highlighted code block
+### CI/CD
 
-# Header 1
-## Header 2
-### Header 3
+#### [setup-helmfile](https://github.com/mamezou-tech/setup-helmfile)
 
-- Bulleted
-- List
+<https://github.com/mamezou-tech/setup-helmfile>
 
-1. Numbered
-2. List
+[Github Actions](https://github.com/features/actions)の[helmfile](https://github.com/roboll/helmfile)対応Action。
 
-**Bold** and _Italic_ and `Code` text
+#### [concourse-k8s-resource](https://github.com/mamezou-tech/concourse-k8s-resource)
 
-[Link](url) and ![Image](src)
-```
+<https://github.com/mamezou-tech/concourse-k8s-resource>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Go言語製の[Concourse CI](https://concourse-ci.org/)の[Kubernetes](https://kubernetes.io/)向けカスタムリソース。
 
-### Jekyll Themes
+## 免責事項
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mamezou-tech/mamezou-tech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+当サイトは豆蔵有志によるコミュニティ活動であり、ここに記載している技術情報やソフトウェアに起因する損害について株式会社豆蔵が責任を負うものではありません。
