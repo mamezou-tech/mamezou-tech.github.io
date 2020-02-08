@@ -23,7 +23,7 @@
 
 [Github Actions](https://github.com/features/actions)の[helmfile](https://github.com/roboll/helmfile)対応Action。
 
-参考：https://blog.kondoumh.com/entry/2020/02/07/213828
+参考： <https://blog.kondoumh.com/entry/2020/02/07/213828>
 
 #### [concourse-k8s-resource](https://github.com/mamezou-tech/concourse-k8s-resource)
 
