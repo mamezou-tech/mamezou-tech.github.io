@@ -7,7 +7,7 @@
 
 ## 技術ノウハウ
 
-### ブログ
+### 技術ブログ
 
 - <https://blog.kondoumh.com/>
 
