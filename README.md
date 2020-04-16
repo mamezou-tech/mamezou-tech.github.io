@@ -33,6 +33,12 @@
 
 Go言語製の[Concourse CI](https://concourse-ci.org/)の[Kubernetes](https://kubernetes.io/)向けカスタムリソース。
 
+### Tool
+
+#### [sbgraph](https://github.com/mamezou-tech/sbgraph)
+
+[Scrapbox](https://scrapbox.io) のページ間リンクを可視化するための CLI
+
 ---
 
 ## 免責事項
