@@ -6,16 +6,17 @@
 ---
 
 ## 技術ノウハウ
-
-### 技術ブログ
-
-- <https://blog.kondoumh.com/>
-
 ### コンテナ
 
 #### [Kubernetesハンズオン](https://github.com/mamezou-tech/k8s-hands-on)
 
-情報整理中。
+### Serverless
+
+#### [Serverless Typescript example](https://github.com/mamezou-tech/serverless-example-typescript)
+
+### 技術ブログ
+
+- <https://blog.kondoumh.com/>
 
 ---
 
