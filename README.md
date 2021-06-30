@@ -40,7 +40,7 @@ GitHub Actions で [Cloud Native Buildpacks](https://buildpacks.io) によるコ
 
 #### [monorepo-update-checker](https://github.com/mamezou-tech/monorepo-update-checker)
 
-Monorepo の変更検知をする Action。
+Monorepo内の変更有無を配下のプロジェクト（リポジトリ）ごとにチェックできる Action。
 
 ### Tool
 
