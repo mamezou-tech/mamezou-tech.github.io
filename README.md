@@ -38,6 +38,10 @@ Go言語製の[Concourse CI](https://concourse-ci.org/)の[Kubernetes](https://k
 
 GitHub Actions で [Cloud Native Buildpacks](https://buildpacks.io) によるコンテナイメージビルドを実行する Action。
 
+#### [monorepo-update-checker](https://github.com/mamezou-tech/monorepo-update-checker)
+
+Monorepo の変更検知をする Action。
+
 ### Tool
 
 #### [sbgraph](https://github.com/mamezou-tech/sbgraph)
