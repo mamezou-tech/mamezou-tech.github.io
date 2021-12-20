@@ -4,4 +4,4 @@
 
 下記サイトに移転しました。
 
-https://developer.mamezou-tech.com/
+[https://developer.mamezou-tech.com](https://developer.mamezou-tech.com)
